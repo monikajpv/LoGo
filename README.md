@@ -8,7 +8,7 @@ svg tag Begins the SVG element.
 width="700" height="700": Sets the width and height of the SVG canvas to 700x700 pixels.
 viewBox = "50 0 100 200": Defines the coordinate system and aspect ratio .
 
-<g transform="rotate(45 100 100)">: Groups the SVG elements and applies a rotation to it.
+g transform="rotate(45 100 100)" : Groups the SVG elements and applies a rotation to it.
 
 These <rect> elements represent colored rectangles inside the rotated group 
 x, y, width, height, and fill attributes specify position, dimensions, and color of the diamond shape.
