@@ -10,14 +10,14 @@ viewBox = "50 0 100 200": Defines the coordinate system and aspect ratio .
 
 g transform="rotate(45 100 100)" : Groups the SVG elements and applies a rotation to it.
 
-These <rect> elements represent colored rectangles inside the rotated group 
+These rect tag elements represent colored rectangles inside the rotated group 
 x, y, width, height, and fill attributes specify position, dimensions, and color of the diamond shape.
 
-<g transform="translate(25, 0)">:The transform="translate(25, 0)" attribute applies a translation transformation to the group
+g transform="translate(25, 0)" :The transform="translate(25, 0)" attribute applies a translation transformation to the group
 25 is for the x-axis.
 0 is for y-axis.
 
- <text>: for writing the text
+ text: for writing the text
 
 
 
