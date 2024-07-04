@@ -1,4 +1,4 @@
-![image](https://github.com/monikajpv/LoGo/assets/100360728/cf78bdf2-3d57-49d0-8136-93277471418e)
+![image](https://github.com/monikajpv/LoGo/assets/100360728/39bd3c3d-63c0-4d0a-a161-98ab0cee046a)
 
 Explanation:
 To create these logo I have used SVG which is (Scalable Vector Graphics) it is a powerful XML-based markup language used to describe two-dimensional vector graphics. 
