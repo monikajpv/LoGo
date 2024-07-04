@@ -17,7 +17,10 @@ x, y, width, height, and fill attributes specify position, dimensions, and color
 25 is for the x-axis.
 0 is for y-axis.
 
-<text>: for writing the text
+ <text>: for writing the text
+
+
+
 
 Assignment No: 2
 Algorithm and Data Structure
