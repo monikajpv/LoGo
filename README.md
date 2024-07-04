@@ -4,7 +4,7 @@ Explanation:
 To create these logo I have used SVG which is (Scalable Vector Graphics) it is a powerful XML-based markup language used to describe two-dimensional vector graphics. 
 It's widely used in web development for creating interactive and responsive graphical elements.
 
-<svg> Begins the SVG element.
+svg tag Begins the SVG element.
 width="700" height="700": Sets the width and height of the SVG canvas to 700x700 pixels.
 viewBox = "50 0 100 200": Defines the coordinate system and aspect ratio .
 
